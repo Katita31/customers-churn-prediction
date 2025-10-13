@@ -1,0 +1,19 @@
+# Ignorar caché de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar checkpoints de Jupyter
+*.ipynb_checkpoints
+
+# Ignorar datos y entornos virtuales
+data/
+venv/
+env/
+
+# Ignorar modelos y archivos pesados
+*.h5
+*.pt
+*.pkl
+
+# Archivos de sistema
+.DS_Store
