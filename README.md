@@ -195,7 +195,7 @@ This project is licensed under the **MIT License**.
 Data Analyst | BI | Data Science
 📍 Santiago, Chile
 📧 [kattyacontreras.v@gmail.com](mailto:kattyacontreras.v@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/kattyacontrerasvaldes)
+🔗 [LinkedIn](https://www.linkedin.com/in/kattyacontrerasv)
 
 > *"Transforming data into strategic insights that drive business decisions."*
 
